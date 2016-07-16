@@ -1,0 +1,10 @@
+E:\WebForm\SQLStringProcess\SQLStringProcess\bin\Release\SQLStringProcess.exe.config
+E:\WebForm\SQLStringProcess\SQLStringProcess\bin\Release\SQLStringProcess.exe
+E:\WebForm\SQLStringProcess\SQLStringProcess\bin\Release\SQLStringProcess.pdb
+E:\WebForm\SQLStringProcess\SQLStringProcess\bin\Release\SQLStringProcess.xml
+E:\WebForm\SQLStringProcess\SQLStringProcess\obj\Release\SQLStringProcess.Form1.resources
+E:\WebForm\SQLStringProcess\SQLStringProcess\obj\Release\SQLStringProcess.Resources.resources
+E:\WebForm\SQLStringProcess\SQLStringProcess\obj\Release\SQLStringProcess.vbproj.GenerateResource.Cache
+E:\WebForm\SQLStringProcess\SQLStringProcess\obj\Release\SQLStringProcess.exe
+E:\WebForm\SQLStringProcess\SQLStringProcess\obj\Release\SQLStringProcess.xml
+E:\WebForm\SQLStringProcess\SQLStringProcess\obj\Release\SQLStringProcess.pdb

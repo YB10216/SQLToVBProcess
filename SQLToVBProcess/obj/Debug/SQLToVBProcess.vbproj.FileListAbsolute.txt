@@ -1,0 +1,10 @@
+E:\NHI\SQLToVBProcess\SQLToVBProcess\bin\Debug\SQLStringProcess.exe.config
+E:\NHI\SQLToVBProcess\SQLToVBProcess\obj\Debug\SQLStringProcess.exe
+E:\NHI\SQLToVBProcess\SQLToVBProcess\obj\Debug\SQLStringProcess.xml
+E:\NHI\SQLToVBProcess\SQLToVBProcess\obj\Debug\SQLStringProcess.pdb
+E:\NHI\SQLToVBProcess\SQLToVBProcess\bin\Debug\SQLStringProcess.exe
+E:\NHI\SQLToVBProcess\SQLToVBProcess\bin\Debug\SQLStringProcess.pdb
+E:\NHI\SQLToVBProcess\SQLToVBProcess\bin\Debug\SQLStringProcess.xml
+E:\NHI\SQLToVBProcess\SQLToVBProcess\obj\Debug\SQLStringProcess.Form1.resources
+E:\NHI\SQLToVBProcess\SQLToVBProcess\obj\Debug\SQLStringProcess.Resources.resources
+E:\NHI\SQLToVBProcess\SQLToVBProcess\obj\Debug\SQLToVBProcess.vbproj.GenerateResource.Cache

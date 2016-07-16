@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SQLToVBProcess", "SQLToVBProcess\SQLToVBProcess.vbproj", "{00D68C68-B392-402A-B208-D1EDFE662CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D68C68-B392-402A-B208-D1EDFE662CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D68C68-B392-402A-B208-D1EDFE662CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D68C68-B392-402A-B208-D1EDFE662CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D68C68-B392-402A-B208-D1EDFE662CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
